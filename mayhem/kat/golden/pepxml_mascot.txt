@@ -1,0 +1,3 @@
+KAT: protein_runs=1 peptide_ids=3
+KAT: protein_hits=18
+KAT: first_hits=4 first_sequence=LAPSAAEDGAFR

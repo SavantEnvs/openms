@@ -1,0 +1,2 @@
+KAT: consensus=6 maps=2
+KAT: first: mz=904.4700 rt=1273.2700 intensity=31253900.00 elements=1

@@ -1,0 +1,11 @@
+project: savantenvs/openms
+target: protxml
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/protxml/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_protxml
+    libfuzzer: true
+    timeout: 30
+    env:
+      MFUZZ_COMPAT_LEVEL: '2'

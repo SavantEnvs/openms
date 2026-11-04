@@ -1,0 +1,1 @@
+KAT: protein_hits=9 groups=7 indistinguishable=7

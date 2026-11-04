@@ -1,0 +1,2 @@
+KAT: entries=8
+KAT: first: SpectraFilterMarkerMower:version

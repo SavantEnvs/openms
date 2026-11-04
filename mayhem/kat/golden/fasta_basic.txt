@@ -1,0 +1,2 @@
+KAT: entries=5
+KAT: first: id=P68509|1433F_BOVIN length=245

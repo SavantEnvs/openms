@@ -1,0 +1,11 @@
+project: savantenvs/openms
+target: mgf
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/mgf/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_mgf
+    libfuzzer: true
+    timeout: 30
+    env:
+      MFUZZ_COMPAT_LEVEL: '2'

@@ -1,0 +1,1 @@
+KAT: monoisotopic=180.0634 average=180.1561

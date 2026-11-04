@@ -1,0 +1,2 @@
+KAT: transitions=5 peptides=2 proteins=1 compounds=0
+KAT: first: id=tr1 precursor_mz=500.0000 product_mz=628.4350

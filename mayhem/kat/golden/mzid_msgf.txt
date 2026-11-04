@@ -1,0 +1,3 @@
+KAT: protein_runs=2 peptide_ids=5
+KAT: protein_hits=2
+KAT: first_hits=1 first_sequence=LATEFSGNVPVLNAGDGSNQHPTQTLLDLFTIQETQGR

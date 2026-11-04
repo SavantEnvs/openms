@@ -1,0 +1,3 @@
+KAT: spectra=3 chromatograms=0
+KAT: first: ms_level=1 rt=60.0000 peaks=1
+KAT: first_peak: mz=120.0000 intensity=100.00

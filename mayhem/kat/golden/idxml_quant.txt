@@ -1,0 +1,3 @@
+KAT: protein_runs=2 peptide_ids=18
+KAT: protein_hits=12
+KAT: first_hits=1 first_sequence=.(Glu->pyro-Glu)ELNKEMAAEKAKAAAG

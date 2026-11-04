@@ -1,0 +1,1 @@
+KAT: psm=58 protein=5 peptide=0 small_molecule=0
